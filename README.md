@@ -3,10 +3,10 @@
 Calculator built with html, css and javascript
 
 ## Features
-- add, subtract, division, multiplication
-- can handle expressions with multiple operators
-- can input decimal numbers
+- Add, subtract, division, multiplication
+- Can handle expressions with multiple operators
+- Can input decimal numbers
 
 ### Techniques used
-- css grid for layout
+- CSS grid for layout
 - Shunting yard algorithm
