@@ -7,3 +7,6 @@ Calculator built with html, css and javascript
 - can handle expressions with multiple operators
 - can input decimal numbers
 
+### Techniques used
+- css grid for layout
+- Shunting yard algorithm
